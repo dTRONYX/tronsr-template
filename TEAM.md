@@ -1,39 +1,34 @@
-## Juliun Brabon 
-*Founder, Chairman*
+## Jon Chung 
+*CEO*
 
-Lean Six Sigma Executive with 9 Years of Executive Leadership experience. Community Advocate and Believer in a Fair Transparent and Inclusive economy that provides equal representation to all of its members.
+Raised in the U.S. and educated in Korea, Jon is an entrepreneur in Korea involved in translation automation, big data and analytics, and social platforms.
+Seeing the immense potential and value of legitimate blockchain technologies, he has been involved in cryptocurrency in a technical advisor capacity since 2016.
+Currently, he is involved in the development and launch of three ICOs. As a firm believer of the TRX ecosystem, he is in the process of converting his future platforms to align with the TRX roadmap and environment. He has an MBA from KAIST in South Korea.
 
 
 
-## Kristopher Woyshner
-*Founder, Strategist*
+## HyunJun Choi
+* Lead Developer*
 
 Entrepreneur, early Bitcoin bystander and decentralized technology enthusiast. Spends time engaging in the crypto community as a blockchain advocate, Researching, Learning and spreading knowledge in hope for a better world.
 
 
 
-## Mike 
-*Policy and Personnel Advisor*
+## YongIl Hyun 
+*System Developer*
 
-A Human Resource Management Professional certified in PHR. Excited to bring A passion for organizational development and corporate policy to the team.
+Yongil is a developer who is involved in all dTRONYX projects. He is currently working to reconfigure existing projects to align with the TRX ecosystem. He has been working on various projects for numerous companies, including Samsung Electronics, Hyundai Motors, etc.
 
-
-
-## Humpty
-*Head of Marketing*
-Marketing strategist, technologist, and life-long student with a penchant for solving problems with emerging technology. Has over 15 years of experience implementing solutions to complex information management problems for startup and corporate clients. Is passionate about solving problems using Blockchain technology.
+## Minwook Baek
+*UX/UI Designer*
+Minwook oversees the UX/UI designs for dTRONYX. He has been involved in numerous projects as a graphics designer, web designer, and mobile application designer over his career. 
 
 
+## Minsoo Hwang 
+*Data Analysis, Analytics*
 
-## Stache
-*Designer*
-Based in Spain, previously a designer now working as a front end developer with an emphasis on custom animations and web apps. With over 13 years experience I’m able to create pretty stuff and make it work.
-
-
-
-## Danny
-*Marketing Administrator*
-Political Science and Communication background with a passion for design and filmmaking. A believer in creating your own path rather then following someone else’s with a passion for helping new projects grow into success. The hard work that Tron has done motivated me to take part in Sesameseed and contribute to the success of Tron.
+## Young Han
+*Community Builder*
 
 
 
