@@ -1,3 +1,6 @@
+
+
+
 ## Server Information
 ### Main Node:
 **Hardware Configuration**
@@ -13,15 +16,15 @@
 * CPU : 2x E5-2680v4 14x 2x 2.40GHz: 28 Cores / 56 Hyper Threads
 * RAM : 128GB Registered ECC DDR4 2400MHz
 
-**Network configuration**
+**Network Configuration**
 * Traffic	: 100TB
 
-### Testable node:
+### Test Node:
 **Hardware Configuration**
 * CPU		: E3-1240v5, 4x 2x 3.5GHz: Quad Core @ 3.5GHz / 8 Hyper Threads
 * RAM		: 32GB ECC DDR4 2133MHz
 
-**Network configuration**
+**Network Configuration**
 * Traffic	: 30TB
 
 
