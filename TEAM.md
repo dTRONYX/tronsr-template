@@ -8,7 +8,7 @@ Currently, he is involved in the development and launch of three ICOs. As a firm
 
 
 ## HyunJun Choi
-* Lead Developer*
+*Lead Developer*
 
 Entrepreneur, early Bitcoin bystander and decentralized technology enthusiast. Spends time engaging in the crypto community as a blockchain advocate, Researching, Learning and spreading knowledge in hope for a better world.
 
