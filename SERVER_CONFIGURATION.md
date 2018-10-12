@@ -1,9 +1,11 @@
+
+
+## Server Information
+
 During the first month of producing blocks as a TRON SR, dtronyx will comply with the recommended configuration of the main server and periodically add nodes to directly participate in ensuring the stability of the network.
 
 After that, we will continuously invest into hardware expansion and we plan to add backup nodes to the main server in different regions in the world.
 
-
-## Server Information
 ### Main Node:
 **Hardware Configuration**
 * CPU		: 4x E5-4650v2 40 Cores x 2.4/2.9GHz: 40 cores / 80 Hyper Threads
