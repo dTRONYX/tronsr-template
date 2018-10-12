@@ -1,4 +1,6 @@
+During the first month of producing blocks as a TRON SR, dtronyx will comply with the recommended configuration of the main server and periodically add nodes to directly participate in ensuring the stability of the network.
 
+After that, we will continuously invest into hardware expansion and we plan to add backup nodes to the main server in different regions in the world.
 
 
 ## Server Information
@@ -26,9 +28,3 @@
 
 **Network Configuration**
 * Traffic	: 30TB
-
-
-
-During the first month of producing blocks as a TRON SR, dtronyx will comply with the recommended configuration of the main server and periodically add nodes to directly participate in ensuring the stability of the network.
-
-After that, we will continuously invest into hardware expansion and we plan to add backup nodes to the main server in different regions in the world.
